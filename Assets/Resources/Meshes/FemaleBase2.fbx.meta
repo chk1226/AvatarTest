@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 0d6bd5fd6099dfa45aa36dd65a121966
+timeCreated: 1458529187
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Body
+    100002: Bottom
+    100004: Character
+    100006: Face
+    100008: //RootNode
+    100010: FemaleBaseVer2
+    100012: Hair
+    100014: Hat
+    100016: Hat 1
+    100018: Head
+    100020: Head 1
+    100022: Head 2
+    100024: HeadCtrl
+    100026: Hip
+    100028: L_Calf
+    100030: L_Collarbone
+    100032: L_CollarCtrl
+    100034: L_ElbowCtrl
+    100036: L_Foot
+    100038: L_ForeArm
+    100040: L_Hand
+    100042: L_HandCtrl
+    100044: L_Middle1
+    100046: L_Middle2
+    100048: L_Middle3
+    100050: L_ShoulderCtrl
+    100052: L_Thigh
+    100054: L_Thumb1
+    100056: L_Thumb2
+    100058: L_Thumb3
+    100060: L_Toe
+    100062: L_UpperArm
+    100064: L_Wrist
+    100066: LWeapon
+    100068: LWeapon 1
+    100070: Neck
+    100072: NeckCtrl
+    100074: R_Calf
+    100076: R_Collarbone
+    100078: R_CollarCtrl
+    100080: R_ElbowCtrl
+    100082: R_Foot
+    100084: R_ForeArm
+    100086: R_Hand
+    100088: R_HandCtrl
+    100090: R_Middle1
+    100092: R_Middle2
+    100094: R_Middle3
+    100096: R_ShoulderCtrl
+    100098: R_Thigh
+    100100: R_Thumb1
+    100102: R_Thumb2
+    100104: R_Thumb3
+    100106: R_Toe
+    100108: R_UpperArm
+    100110: R_Wrist
+    100112: Root
+    100114: RootCtrl
+    100116: RWeapon
+    100118: RWeapon 1
+    100120: Spine1Ctrl
+    100122: Spine2
+    100124: Spine2Ctrl
+    100126: Spine3
+    100128: Spine3Ctrl
+    100130: Tip
+    100132: Top
+    400000: Body
+    400002: Bottom
+    400004: Character
+    400006: Face
+    400008: //RootNode
+    400010: FemaleBaseVer2
+    400012: Hair
+    400014: Hat
+    400016: Hat 1
+    400018: Head
+    400020: Head 1
+    400022: Head 2
+    400024: HeadCtrl
+    400026: Hip
+    400028: L_Calf
+    400030: L_Collarbone
+    400032: L_CollarCtrl
+    400034: L_ElbowCtrl
+    400036: L_Foot
+    400038: L_ForeArm
+    400040: L_Hand
+    400042: L_HandCtrl
+    400044: L_Middle1
+    400046: L_Middle2
+    400048: L_Middle3
+    400050: L_ShoulderCtrl
+    400052: L_Thigh
+    400054: L_Thumb1
+    400056: L_Thumb2
+    400058: L_Thumb3
+    400060: L_Toe
+    400062: L_UpperArm
+    400064: L_Wrist
+    400066: LWeapon
+    400068: LWeapon 1
+    400070: Neck
+    400072: NeckCtrl
+    400074: R_Calf
+    400076: R_Collarbone
+    400078: R_CollarCtrl
+    400080: R_ElbowCtrl
+    400082: R_Foot
+    400084: R_ForeArm
+    400086: R_Hand
+    400088: R_HandCtrl
+    400090: R_Middle1
+    400092: R_Middle2
+    400094: R_Middle3
+    400096: R_ShoulderCtrl
+    400098: R_Thigh
+    400100: R_Thumb1
+    400102: R_Thumb2
+    400104: R_Thumb3
+    400106: R_Toe
+    400108: R_UpperArm
+    400110: R_Wrist
+    400112: Root
+    400114: RootCtrl
+    400116: RWeapon
+    400118: RWeapon 1
+    400120: Spine1Ctrl
+    400122: Spine2
+    400124: Spine2Ctrl
+    400126: Spine3
+    400128: Spine3Ctrl
+    400130: Tip
+    400132: Top
+    4300000: Head
+    4300002: Face
+    4300004: Hat
+    4300006: Hair
+    4300008: Top
+    4300010: Bottom
+    4300012: RWeapon
+    4300014: LWeapon
+    9500000: //RootNode
+    13700000: Bottom
+    13700002: Face
+    13700004: Hair
+    13700006: Hat
+    13700008: Head 1
+    13700010: LWeapon
+    13700012: RWeapon
+    13700014: Top
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

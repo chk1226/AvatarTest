@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 9bb3c29967cf316458dafddcb87f21dc
+timeCreated: 1458529190
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Body
+    100002: Bottom_RedMage
+    100004: Character
+    100006: Hat
+    100008: Hat_RedMage
+    100010: Head
+    100012: Hip
+    100014: L_Calf
+    100016: L_Collarbone
+    100018: L_Foot
+    100020: L_ForeArm
+    100022: L_Hand
+    100024: L_Middle1
+    100026: L_Middle2
+    100028: L_Middle3
+    100030: L_Thigh
+    100032: L_Thumb1
+    100034: L_Thumb2
+    100036: L_Thumb3
+    100038: L_Toe
+    100040: L_UpperArm
+    100042: L_Wrist
+    100044: LWeapon
+    100046: Neck
+    100048: R_Calf
+    100050: R_Collarbone
+    100052: R_Foot
+    100054: R_ForeArm
+    100056: R_Hand
+    100058: R_Middle1
+    100060: R_Middle2
+    100062: R_Middle3
+    100064: R_Thigh
+    100066: R_Thumb1
+    100068: R_Thumb2
+    100070: R_Thumb3
+    100072: R_Toe
+    100074: R_UpperArm
+    100076: R_Wrist
+    100078: RedMage
+    100080: Root
+    100082: RootCtrl
+    100084: RWeapon
+    100086: //RootNode
+    100088: Spine2
+    100090: Spine3
+    100092: Tip
+    100094: Top_RedMage
+    400000: Body
+    400002: Bottom_RedMage
+    400004: Character
+    400006: Hat
+    400008: Hat_RedMage
+    400010: Head
+    400012: Hip
+    400014: L_Calf
+    400016: L_Collarbone
+    400018: L_Foot
+    400020: L_ForeArm
+    400022: L_Hand
+    400024: L_Middle1
+    400026: L_Middle2
+    400028: L_Middle3
+    400030: L_Thigh
+    400032: L_Thumb1
+    400034: L_Thumb2
+    400036: L_Thumb3
+    400038: L_Toe
+    400040: L_UpperArm
+    400042: L_Wrist
+    400044: LWeapon
+    400046: Neck
+    400048: R_Calf
+    400050: R_Collarbone
+    400052: R_Foot
+    400054: R_ForeArm
+    400056: R_Hand
+    400058: R_Middle1
+    400060: R_Middle2
+    400062: R_Middle3
+    400064: R_Thigh
+    400066: R_Thumb1
+    400068: R_Thumb2
+    400070: R_Thumb3
+    400072: R_Toe
+    400074: R_UpperArm
+    400076: R_Wrist
+    400078: RedMage
+    400080: Root
+    400082: RootCtrl
+    400084: RWeapon
+    400086: //RootNode
+    400088: Spine2
+    400090: Spine3
+    400092: Tip
+    400094: Top_RedMage
+    4300000: Hat_RedMage
+    4300002: Top_RedMage
+    4300004: Bottom_RedMage
+    9500000: //RootNode
+    13700000: Bottom_RedMage
+    13700002: Hat_RedMage
+    13700004: Top_RedMage
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
